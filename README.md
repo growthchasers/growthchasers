@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **django**
 
-- 💬 Ask me about **back end dev**
+- 💬 Ask me about **CS50**
 
 
 <div align="center">
